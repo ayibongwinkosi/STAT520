@@ -57,5 +57,5 @@ BNN<-function(n,mu,sigma,theta,tau)
   
   
 }
-
-BNN(10,20,5,12,4)
+# Modified BBB and BNN parameters to observe posterior behavior
+BNN(5,5,5,5,5)
